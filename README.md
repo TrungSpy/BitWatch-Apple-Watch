@@ -7,5 +7,5 @@ Bạn cần có 1 Iphone để kết nối Bluetooth và cập nhật thông tin
 Hướng dẫn lập trình cụ thể xin các bạn tham khảo link bên dưới.   
 http://vantrung8586.blogspot.jp/2015/03/huong-dan-lam-application-cho-apple.html  
 
-![Alt text](http://cdn5.raywenderlich.com/wp-content/uploads/2014/11/watch-final.png "Optional title")
-![ScreenShot](http://cdn5.raywenderlich.com/wp-content/uploads/2014/11/watch-final.png)
+![Alt text](http://cdn5.raywenderlich.com/wp-content/uploads/2014/11/watch-final.png "BitWatch Apple Watch Application")
+
